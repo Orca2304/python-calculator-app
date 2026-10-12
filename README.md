@@ -1,5 +1,4 @@
 # python-calculator-app
 Projects by scratch
 <br>
-First project and beginnings
- 
+ A simple GUI calculator built with Python and Tkinter.
